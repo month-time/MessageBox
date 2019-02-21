@@ -1,5 +1,5 @@
 
-[『消息提示框。』](https://github.com/yui540/react-message-modal) 
+[『消息提示框。』](https://month-time.github.io/MessageBox/) 
 
 
 ![sample](./res/sample.gif)
